@@ -1,0 +1,11 @@
+! name: My Goggle Scratchpad
+! description: For testing Goggles without making a million repos. Anything's possible. Might break. There is no spoon.
+! public: true
+! author: ResearchBuzz
+! avatar: #00008B
+
+$discard
+
+$site=blogger.com,boost=9
+$site=blogspot.com,boost=9
+$site=livejournal.com,boost=9
