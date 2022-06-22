@@ -1,0 +1,17 @@
+! name: 1990s Blog Goggles
+! description: Surface content from 1990s blogs
+! public: true
+! author: ResearchBuzz
+! avatar: #00008B
+
+/1993/$boost=10
+/1994/$boost=10
+/1995/$boost=10
+/1996/$boost=10
+/1997/$boost=10
+/1998/$boost=10
+/1999/$boost=10
+
+blogger.com$boost=5
+blogspot.com$boost=5
+livejournal.com$boost=5
