@@ -8,8 +8,8 @@ $discard
 
 $site=ca.gov
 $site=fl.gov
-$site=AL.gov
-$site=AK.gov
+$site=al.gov
+$site=ak.gov
 $site=AZ.gov
 $site=AR.gov
 $site=CA.gov
