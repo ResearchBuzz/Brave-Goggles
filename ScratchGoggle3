@@ -6,7 +6,7 @@
 
 $discard
 
-$site=ca.gov
-$site=fl.gov
-$site=california.gov
-$site=florida.gov
+$boost=10,site=ca.gov
+$boost=10,site=fl.gov
+$boost=10,site=california.gov
+$boost=10,site=florida.gov
